@@ -31,7 +31,7 @@ int print_hex(unsigned int n, unsigned int c)
 			if (a[i] < 10)
 				_putchar('0' + a[i]);
 			else
-				_putchar('0' + diff + a[i])
+				_putchar('0' + diff + a[i]);
 					count++;
 		}
 	}
